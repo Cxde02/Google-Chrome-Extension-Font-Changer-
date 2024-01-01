@@ -1,0 +1,8 @@
+- ARR 05.12.23
+
+This is a simple Google Chrome Extension
+
+The extension is a font family changer; Just go to extension and click on it to make the 
+pop up appear. To be to able to change the font, just select the desired one from the available font families.
+
+<This doesn't work on some webpages>

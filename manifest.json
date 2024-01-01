@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Font Changer",
+  "version": "1.0",
+  "description": "Change the font family of any website.",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_icon": "images/icon.png",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "48": "images/icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
