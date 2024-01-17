@@ -1,11 +1,14 @@
-<h3>Ever visit a website and think, "Ugh, that font is killing my vibe?" Well, fret no more! Introducing Font Switcher, a powerful yet simple Chrome extension that gives you the power to change the fonts of any website you visit.</h3>
+<h3>Ever visit a website and think, "Ugh, that font is killing my vibe?" Well, fret no more! Introducing Font Changer, a powerful yet simple Chrome extension that gives you the power to change the fonts of the websites you visit.</h3>
 
-Features:
-
-Effortlessly swap fonts: Select a website and choose from a curated selection of fonts, or add your own custom fonts.
-Preview before applying: See how the new font looks before committing, ensuring you find the perfect fit for every site.
-Remember your preferences: Font Switcher remembers your chosen fonts for each website, making it a seamless experience.
-Lightweight and unobtrusive: The extension runs quietly in the background, only activating when you need it.
+<h5>Features</h5>
+<ul>
+  <li>Effortlessly swap fonts: Select a website and choose from a curated selection of fonts, or add your own custom fonts.
+</li>
+<li>Preview before applying: See how the new font looks before committing, ensuring you find the perfect fit for every site.
+</li>
+<li>Effortlessly swap fonts: Select a website and choose from a curated selection of fonts, or add your own custom fonts.
+</li>
+</ul>
 Benefits:
 
 Improved readability: Struggling with tiny text or harsh fonts? Choose a font that's easy on your eyes and enhances your reading experience.
