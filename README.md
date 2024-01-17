@@ -6,8 +6,6 @@
 </li>
 <li>Preview before applying: See how the new font looks before committing, ensuring you find the perfect fit for every site.
 </li>
-<li>Effortlessly swap fonts: Select a website and choose from a curated selection of fonts, or add your own custom fonts.
-</li>
 </ul>
 <h5>Benefits</h5>
 <ul>
