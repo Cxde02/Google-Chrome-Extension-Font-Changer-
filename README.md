@@ -18,7 +18,6 @@
 <li>Personalized browsing: Make every website feel like your own with custom fonts that reflect your style and personality.
 </li>
 </ul>
-<br>
 <h5>Getting Started</h5>
 <ul>
   <li>Download the extension files: Clone or download the repository from GitHub.</li>
