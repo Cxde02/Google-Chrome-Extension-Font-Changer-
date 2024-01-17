@@ -22,11 +22,11 @@
 <h5>Getting Started</h5>
 <ul>
   <li>Download the extension files: Clone or download the repository from GitHub.</li>
-  <ol>Load the unpacked extension:
+  <ol>Load the unpacked extension: </ol>
     <li>Open Chrome and navigate to chrome://extensions.</li>
     <li>Enable Developer mode in the top right corner.</li>
     <li>Click Load unpacked and select the folder containing the extension files.</li>
-  </ol>
+ 
   <li>Click the extension icon: Once loaded, you'll see the Font Changer icon in your Chrome toolbar.
   </li>
   <li>Select a website and choose your font: Start personalizing your web experience!
