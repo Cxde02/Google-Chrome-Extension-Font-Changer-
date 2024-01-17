@@ -1,4 +1,4 @@
-<h3>Ever visit a website and think, "Ugh, that font is killing my vibe?" Well, fret no more! Introducing Font Changer, a powerful yet simple Chrome extension that gives you the power to change the fonts of the websites you visit.</h3>
+<h4>Ever visit a website and think, "Ugh, that font is killing my vibe?" Well, fret no more! Introducing Font Changer, a powerful yet simple Chrome extension that gives you the power to change the fonts of the websites you visit.</h3>
 
 <h5>Features</h5>
 <ul>
