@@ -9,8 +9,7 @@
 <li>Effortlessly swap fonts: Select a website and choose from a curated selection of fonts, or add your own custom fonts.
 </li>
 </ul>
-<br>
-<h5><Benefits/h5>
+<h5><Benefits</h5>
 <ul>
   <li>Improved readability: Struggling with tiny text or harsh fonts? Choose a font that's easy on your eyes and enhances your reading experience.
 </li>
@@ -21,16 +20,18 @@
 </ul>
 <br>
 <h5>Getting Started</h5>
-<ol>Download the extension files: Clone or download the repository from GitHub.</ol>
-<ol>Load the unpacked extension:
+<li>Download the extension files: Clone or download the repository from GitHub.</li>
+<ul>
+<li>Load the unpacked extension:
   <li>Open Chrome and navigate to chrome://extensions.</li>
   <li>Enable Developer mode in the top right corner.</li>
   <li>Click Load unpacked and select the folder containing the extension files.</li>
-</ol>
-<ol>Click the extension icon: Once loaded, you'll see the Font Changer icon in your Chrome toolbar.
-</ol>
-<ol>Select a website and choose your font: Start personalizing your web experience!
-</ol>
+</li>
+<li>Click the extension icon: Once loaded, you'll see the Font Changer icon in your Chrome toolbar.
+</li>
+<li>Select a website and choose your font: Start personalizing your web experience!
+</li>
+</ul>
 
 
 
